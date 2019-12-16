@@ -1,7 +1,7 @@
 # gmail
 
 A new Flutter project.
-
+![alt text](https://raw.githubusercontent.com/edwinmacalopu/Gmail/master/Screenshot_20191216-175719.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
