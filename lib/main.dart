@@ -13,6 +13,7 @@ class _GmailAppState extends State<GmailApp> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.white,
       body: Container(
         margin: EdgeInsets.only(left: 20,right: 20),
         child: ListView(
